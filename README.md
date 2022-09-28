@@ -27,4 +27,4 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 * Color literals.
 
 
-## A T A K A N  Ç İ Ç E K
+

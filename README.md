@@ -15,7 +15,6 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 
 <img src="https://user-images.githubusercontent.com/55702254/192873987-5228d634-e986-41ea-a49b-c69bb59bda7d.PNG" height="500" />
 
-&nbsp;
 
 <img src="https://user-images.githubusercontent.com/55702254/192873999-dffeacb5-7140-4687-8bff-557b44808f57.PNG" height="500" /> 
 

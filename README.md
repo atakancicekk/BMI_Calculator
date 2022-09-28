@@ -4,7 +4,7 @@
 
 #  BMI Calculator
 
-The goal of this project is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. I compared objects created from classes with instances of Structs that we learnt about earlier. 
+The goal of this project is to learn more about Optionals, solidify my understanding of the MVC design pattern and to introduce the concept of Classes. I compared objects created from classes with instances of Structs that we learnt about earlier. 
 
 ## What I've built
 
@@ -17,10 +17,6 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 
 
 
-
-
-
-
 ## What I've learned by building this project
 
 * How to create multi-screen apps with animated navigation.
@@ -29,3 +25,6 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 * Pass by value vs. pass by reference. 
 * Formatting Strings. 
 * Color literals.
+
+
+#A T A K A N  Ç İ Ç E K

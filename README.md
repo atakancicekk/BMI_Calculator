@@ -13,14 +13,13 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/55702254/192873987-5228d634-e986-41ea-a49b-c69bb59bda7d.PNG" height="400" />
+<img src="https://user-images.githubusercontent.com/55702254/192873987-5228d634-e986-41ea-a49b-c69bb59bda7d.PNG" height="500" />
 
 &nbsp;
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/55702254/192873999-dffeacb5-7140-4687-8bff-557b44808f57.PNG" height="400" /> 
+<img src="https://user-images.githubusercontent.com/55702254/192873999-dffeacb5-7140-4687-8bff-557b44808f57.PNG" height="500" /> 
 
-<img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
 
 &nbsp;
 &nbsp;

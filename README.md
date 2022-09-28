@@ -15,8 +15,6 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 
 <img src="https://user-images.githubusercontent.com/55702254/192873987-5228d634-e986-41ea-a49b-c69bb59bda7d.PNG" height="400" />
 
-<img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
-
 &nbsp;
 &nbsp;
 
@@ -24,17 +22,9 @@ With this project, I built a Body Mass Index calculator. Based on the user’s w
 
 <img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
 
-
-<img src="https://user-images.githubusercontent.com/55702254/192874002-21a4d626-8c4e-49df-8350-e30aabb3ddd3.PNG)" height="400" />
-
-<img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
-
 &nbsp;
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/55702254/192874003-ac7fa84f-88e9-4467-af80-dde9a4433f5d.PNG" height="400" /> 
-
-<img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
 
 
 
